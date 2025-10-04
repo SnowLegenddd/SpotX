@@ -340,8 +340,9 @@
                 }
             },
             "betamaxAutoSeekToAdPosition": {
-                "name": "AutoSeekToAdPosition",
-                "description": "If true, the player will seek to the ad position when an stop position is registered. Usefull for debugging ads.",
+    "name": "AutoSeekToAdPosition",
+    "description": "If true, the player will seek to the ad position when a stop position is registered. Useful for debugging ads.",
+
                 "native_description": "If true, the player will seek to the ad position when an stop position is registered. Usefull for debugging ads.",
                 "version": {
                     "fr": "1.2.26",
